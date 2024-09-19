@@ -81,7 +81,13 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/app-PIUsDxwf.js",
+    "url": "assets/app-DE_BduRg.js",
+    "revision": null
+  }, {
+    "url": "assets/BjbQPJK_.js",
+    "revision": null
+  }, {
+    "url": "assets/BRZPKYMM.js",
     "revision": null
   }, {
     "url": "assets/C6Dx7pxG.css",
@@ -97,12 +103,6 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "assets/Cy2A0ZXE.css",
-    "revision": null
-  }, {
-    "url": "assets/D7az-aHO.js",
-    "revision": null
-  }, {
-    "url": "assets/DBhUh4zZ.js",
     "revision": null
   }, {
     "url": "assets/donate-iTAF6ci1.jpg",
@@ -136,10 +136,10 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": "cdd2778e636008c04170c1a7d59d2ac4"
   }, {
     "url": "about.html",
-    "revision": "4f3ad8ae0cb988f27614e0f17a135abb"
+    "revision": "6b06a13fdfc447575175402f6e7aac50"
   }, {
     "url": "index.html",
-    "revision": "3188638baa6a70d8485ba77f5b99a3ec"
+    "revision": "eaa479f549189509556dc371a424b846"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
