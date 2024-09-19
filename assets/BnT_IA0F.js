@@ -1,0 +1,1 @@
+import{X as o,o as t,f as s,j as n}from"./app-CP89k5F2.js";const r={},a={class:"about"};function c(l,e){return t(),s("div",a,e[0]||(e[0]=[n("h1",null,null,-1)]))}const f=o(r,[["render",c]]);export{f as default};

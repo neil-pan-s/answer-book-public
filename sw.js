@@ -81,28 +81,31 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/app-DDYSDVgL.js",
+    "url": "assets/app-CP89k5F2.js",
+    "revision": null
+  }, {
+    "url": "assets/BnT_IA0F.js",
     "revision": null
   }, {
     "url": "assets/C6Dx7pxG.css",
     "revision": null
   }, {
-    "url": "assets/CBIh8D-I.js",
-    "revision": null
-  }, {
-    "url": "assets/CFepZnOs.js",
-    "revision": null
-  }, {
-    "url": "assets/CL2OROR2.js",
+    "url": "assets/C8ukEo7o.js",
     "revision": null
   }, {
     "url": "assets/cover-mh0L3JCC.jpg",
     "revision": null
   }, {
-    "url": "assets/Csxogp9h.css",
+    "url": "assets/Cy2A0ZXE.css",
     "revision": null
   }, {
-    "url": "assets/DVJff_n0.css",
+    "url": "assets/donate-iTAF6ci1.jpg",
+    "revision": null
+  }, {
+    "url": "assets/P-tvkt0L.js",
+    "revision": null
+  }, {
+    "url": "assets/QiPIVm5a.css",
     "revision": null
   }, {
     "url": "icons/apple-touch-icon-180x180.png",
@@ -133,10 +136,10 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": "cdd2778e636008c04170c1a7d59d2ac4"
   }, {
     "url": "about.html",
-    "revision": "2f8c7c4d406e0d1f4dd6813c09831811"
+    "revision": "7a75f01cc6b05b4954650efd6808aa26"
   }, {
     "url": "index.html",
-    "revision": "929b19f793506e52cffa0ecd44fa7935"
+    "revision": "8d9671e489ad6baea5bf3c3bacb5d029"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
