@@ -1,0 +1,1 @@
+import{bc as o,o as t,Z as s,R as n}from"./app-BJv8fR1G.js";const c={},r={class:"about"};function a(l,e){return t(),s("div",r,e[0]||(e[0]=[n("h1",null,null,-1)]))}const u=o(c,[["render",a]]);export{u as default};

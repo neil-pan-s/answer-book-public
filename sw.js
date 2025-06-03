@@ -81,13 +81,10 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/app-DE_BduRg.js",
+    "url": "assets/app-BJv8fR1G.js",
     "revision": null
   }, {
-    "url": "assets/BjbQPJK_.js",
-    "revision": null
-  }, {
-    "url": "assets/BRZPKYMM.js",
+    "url": "assets/BZ2PpKFt.js",
     "revision": null
   }, {
     "url": "assets/C6Dx7pxG.css",
@@ -96,16 +93,37 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/C8ukEo7o.js",
     "revision": null
   }, {
-    "url": "assets/CCGp36ZT.css",
+    "url": "assets/CCzAftrR.js",
+    "revision": null
+  }, {
+    "url": "assets/CJWvpnsb.css",
     "revision": null
   }, {
     "url": "assets/cover-mh0L3JCC.jpg",
     "revision": null
   }, {
-    "url": "assets/Cy2A0ZXE.css",
+    "url": "assets/CWMHo5Xk.js",
+    "revision": null
+  }, {
+    "url": "assets/CXXgV5JF.js",
+    "revision": null
+  }, {
+    "url": "assets/D17AEPNs.css",
+    "revision": null
+  }, {
+    "url": "assets/Di7up9Te.css",
     "revision": null
   }, {
     "url": "assets/donate-iTAF6ci1.jpg",
+    "revision": null
+  }, {
+    "url": "assets/DoUhrrgM.css",
+    "revision": null
+  }, {
+    "url": "assets/gGv_Z_YH.js",
+    "revision": null
+  }, {
+    "url": "assets/wx-BEFoXXau.jpg",
     "revision": null
   }, {
     "url": "icons/apple-touch-icon-180x180.png",
@@ -136,10 +154,16 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": "cdd2778e636008c04170c1a7d59d2ac4"
   }, {
     "url": "about.html",
-    "revision": "6b06a13fdfc447575175402f6e7aac50"
+    "revision": "f73c6ecb90c522754d9936a82a6f29f1"
+  }, {
+    "url": "answer.html",
+    "revision": "fd8d3934fba6f66507971d25d0691e70"
+  }, {
+    "url": "bazi.html",
+    "revision": "e90d19f7ca6a2a00aeb912f502ff3ce8"
   }, {
     "url": "index.html",
-    "revision": "eaa479f549189509556dc371a424b846"
+    "revision": "ffc49278ba7806ce1b22b7edaf95049e"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
