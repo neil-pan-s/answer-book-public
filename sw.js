@@ -81,10 +81,10 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/app-BJv8fR1G.js",
+    "url": "assets/app-uLMn6DiK.js",
     "revision": null
   }, {
-    "url": "assets/BZ2PpKFt.js",
+    "url": "assets/C3Bh6Q5n.js",
     "revision": null
   }, {
     "url": "assets/C6Dx7pxG.css",
@@ -93,19 +93,19 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/C8ukEo7o.js",
     "revision": null
   }, {
-    "url": "assets/CCzAftrR.js",
-    "revision": null
-  }, {
     "url": "assets/CJWvpnsb.css",
     "revision": null
   }, {
     "url": "assets/cover-mh0L3JCC.jpg",
     "revision": null
   }, {
-    "url": "assets/CWMHo5Xk.js",
+    "url": "assets/Cu86tcKi.js",
     "revision": null
   }, {
-    "url": "assets/CXXgV5JF.js",
+    "url": "assets/D-Aj3PEk.js",
+    "revision": null
+  }, {
+    "url": "assets/D0lk99sz.css",
     "revision": null
   }, {
     "url": "assets/D17AEPNs.css",
@@ -117,13 +117,16 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/donate-iTAF6ci1.jpg",
     "revision": null
   }, {
-    "url": "assets/DoUhrrgM.css",
+    "url": "assets/DzoBU7FH.js",
     "revision": null
   }, {
-    "url": "assets/gGv_Z_YH.js",
+    "url": "assets/taichi-Cpe_iz6n.png",
     "revision": null
   }, {
     "url": "assets/wx-BEFoXXau.jpg",
+    "revision": null
+  }, {
+    "url": "assets/x1gYB-Sd.js",
     "revision": null
   }, {
     "url": "icons/apple-touch-icon-180x180.png",
@@ -154,16 +157,16 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": "cdd2778e636008c04170c1a7d59d2ac4"
   }, {
     "url": "about.html",
-    "revision": "f73c6ecb90c522754d9936a82a6f29f1"
+    "revision": "148d2047ce76b813726e90f92350a26d"
   }, {
     "url": "answer.html",
-    "revision": "fd8d3934fba6f66507971d25d0691e70"
+    "revision": "de6a971665fd666213aec07a6f0f0d5c"
   }, {
     "url": "bazi.html",
-    "revision": "e90d19f7ca6a2a00aeb912f502ff3ce8"
+    "revision": "0ef4f7cc416b726347962b59fec9062f"
   }, {
     "url": "index.html",
-    "revision": "ffc49278ba7806ce1b22b7edaf95049e"
+    "revision": "c5b3738a355a58ce556bf1de3718b32f"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
