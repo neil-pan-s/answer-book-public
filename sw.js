@@ -81,16 +81,19 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/app-MpSZX8Kj.js",
+    "url": "assets/7yyLMyFN.js",
     "revision": null
   }, {
-    "url": "assets/Bi1miEuR.js",
+    "url": "assets/app-CifPN_LT.js",
+    "revision": null
+  }, {
+    "url": "assets/avMW_Bz3.css",
+    "revision": null
+  }, {
+    "url": "assets/BDHYGYvA.js",
     "revision": null
   }, {
     "url": "assets/BrjR4h7e.css",
-    "revision": null
-  }, {
-    "url": "assets/C__f-NgC.js",
     "revision": null
   }, {
     "url": "assets/C6Dx7pxG.css",
@@ -99,19 +102,16 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/C8ukEo7o.js",
     "revision": null
   }, {
-    "url": "assets/CC9zTJP-.css",
-    "revision": null
-  }, {
     "url": "assets/CJWvpnsb.css",
     "revision": null
   }, {
-    "url": "assets/CN4jkE-d.js",
+    "url": "assets/CmVWzIma.js",
     "revision": null
   }, {
     "url": "assets/cover-mh0L3JCC.jpg",
     "revision": null
   }, {
-    "url": "assets/DMMlywHT.js",
+    "url": "assets/DK9drYPs.js",
     "revision": null
   }, {
     "url": "assets/donate-iTAF6ci1.jpg",
@@ -120,7 +120,7 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/DQP6gcI8.css",
     "revision": null
   }, {
-    "url": "assets/sSLaD8UZ.js",
+    "url": "assets/rFHFeG3g.js",
     "revision": null
   }, {
     "url": "assets/taichi-Cpe_iz6n.png",
@@ -157,16 +157,16 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": "cdd2778e636008c04170c1a7d59d2ac4"
   }, {
     "url": "about.html",
-    "revision": "3652f82e713fa47d7937a53439217f99"
+    "revision": "3d1401b956a202981c9ad2ab56d30e21"
   }, {
     "url": "answer.html",
-    "revision": "01444d08463944c06256df698c960251"
+    "revision": "d5be3be67933a47e0e5c758e02721c48"
   }, {
     "url": "bazi.html",
-    "revision": "c0fb58800b0694a4742ee88804a71166"
+    "revision": "a56545a6e33a1419d75e969fef8dd6a9"
   }, {
     "url": "index.html",
-    "revision": "82fe6eeec19519e1b2d438c856dc978c"
+    "revision": "1c19d3f741f52ee20a11b207bcc9dfcf"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
