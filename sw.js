@@ -81,10 +81,16 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/app-uLMn6DiK.js",
+    "url": "assets/app-MpSZX8Kj.js",
     "revision": null
   }, {
-    "url": "assets/C3Bh6Q5n.js",
+    "url": "assets/Bi1miEuR.js",
+    "revision": null
+  }, {
+    "url": "assets/BrjR4h7e.css",
+    "revision": null
+  }, {
+    "url": "assets/C__f-NgC.js",
     "revision": null
   }, {
     "url": "assets/C6Dx7pxG.css",
@@ -93,40 +99,34 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/C8ukEo7o.js",
     "revision": null
   }, {
+    "url": "assets/CC9zTJP-.css",
+    "revision": null
+  }, {
     "url": "assets/CJWvpnsb.css",
+    "revision": null
+  }, {
+    "url": "assets/CN4jkE-d.js",
     "revision": null
   }, {
     "url": "assets/cover-mh0L3JCC.jpg",
     "revision": null
   }, {
-    "url": "assets/Cu86tcKi.js",
-    "revision": null
-  }, {
-    "url": "assets/D-Aj3PEk.js",
-    "revision": null
-  }, {
-    "url": "assets/D0lk99sz.css",
-    "revision": null
-  }, {
-    "url": "assets/D17AEPNs.css",
-    "revision": null
-  }, {
-    "url": "assets/Di7up9Te.css",
+    "url": "assets/DMMlywHT.js",
     "revision": null
   }, {
     "url": "assets/donate-iTAF6ci1.jpg",
     "revision": null
   }, {
-    "url": "assets/DzoBU7FH.js",
+    "url": "assets/DQP6gcI8.css",
+    "revision": null
+  }, {
+    "url": "assets/sSLaD8UZ.js",
     "revision": null
   }, {
     "url": "assets/taichi-Cpe_iz6n.png",
     "revision": null
   }, {
     "url": "assets/wx-BEFoXXau.jpg",
-    "revision": null
-  }, {
-    "url": "assets/x1gYB-Sd.js",
     "revision": null
   }, {
     "url": "icons/apple-touch-icon-180x180.png",
@@ -157,16 +157,16 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": "cdd2778e636008c04170c1a7d59d2ac4"
   }, {
     "url": "about.html",
-    "revision": "148d2047ce76b813726e90f92350a26d"
+    "revision": "3652f82e713fa47d7937a53439217f99"
   }, {
     "url": "answer.html",
-    "revision": "de6a971665fd666213aec07a6f0f0d5c"
+    "revision": "01444d08463944c06256df698c960251"
   }, {
     "url": "bazi.html",
-    "revision": "0ef4f7cc416b726347962b59fec9062f"
+    "revision": "c0fb58800b0694a4742ee88804a71166"
   }, {
     "url": "index.html",
-    "revision": "c5b3738a355a58ce556bf1de3718b32f"
+    "revision": "82fe6eeec19519e1b2d438c856dc978c"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
