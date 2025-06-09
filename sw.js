@@ -81,16 +81,7 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/7yyLMyFN.js",
-    "revision": null
-  }, {
-    "url": "assets/app-CifPN_LT.js",
-    "revision": null
-  }, {
-    "url": "assets/avMW_Bz3.css",
-    "revision": null
-  }, {
-    "url": "assets/BDHYGYvA.js",
+    "url": "assets/app-C048mITH.js",
     "revision": null
   }, {
     "url": "assets/BrjR4h7e.css",
@@ -102,16 +93,19 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/C8ukEo7o.js",
     "revision": null
   }, {
+    "url": "assets/CD65-6OC.js",
+    "revision": null
+  }, {
+    "url": "assets/CgLscdYg.js",
+    "revision": null
+  }, {
     "url": "assets/CJWvpnsb.css",
     "revision": null
   }, {
-    "url": "assets/CmVWzIma.js",
+    "url": "assets/ClHq7jL5.js",
     "revision": null
   }, {
     "url": "assets/cover-mh0L3JCC.jpg",
-    "revision": null
-  }, {
-    "url": "assets/DK9drYPs.js",
     "revision": null
   }, {
     "url": "assets/donate-iTAF6ci1.jpg",
@@ -120,7 +114,13 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/DQP6gcI8.css",
     "revision": null
   }, {
-    "url": "assets/rFHFeG3g.js",
+    "url": "assets/DyWDBmsT.js",
+    "revision": null
+  }, {
+    "url": "assets/JrqQLz09.js",
+    "revision": null
+  }, {
+    "url": "assets/MTtqvHuT.css",
     "revision": null
   }, {
     "url": "assets/taichi-Cpe_iz6n.png",
@@ -157,16 +157,16 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": "cdd2778e636008c04170c1a7d59d2ac4"
   }, {
     "url": "about.html",
-    "revision": "3d1401b956a202981c9ad2ab56d30e21"
+    "revision": "8db18cee82be502905010d5896a7e811"
   }, {
     "url": "answer.html",
-    "revision": "d5be3be67933a47e0e5c758e02721c48"
+    "revision": "eb0eea20de4d7db6322b4473ba55f1ea"
   }, {
     "url": "bazi.html",
-    "revision": "a56545a6e33a1419d75e969fef8dd6a9"
+    "revision": "6325862785d52d4a3306eb0e2e42bf5c"
   }, {
     "url": "index.html",
-    "revision": "1c19d3f741f52ee20a11b207bcc9dfcf"
+    "revision": "07f2ebec2d9ec6f50c168b0e1e7e18b6"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
