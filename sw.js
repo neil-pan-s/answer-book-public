@@ -81,16 +81,19 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/app-CRbySh0J.js",
-    "revision": null
-  }, {
-    "url": "assets/aR13CH5N.js",
+    "url": "assets/app-TovxH3ne.js",
     "revision": null
   }, {
     "url": "assets/BA7rjPiq.css",
     "revision": null
   }, {
-    "url": "assets/BaOSN7Gl.js",
+    "url": "assets/Bjxop39h.js",
+    "revision": null
+  }, {
+    "url": "assets/C-CS-Cak.js",
+    "revision": null
+  }, {
+    "url": "assets/C21bM6-I.js",
     "revision": null
   }, {
     "url": "assets/C6Dx7pxG.css",
@@ -99,22 +102,19 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/C8ukEo7o.js",
     "revision": null
   }, {
-    "url": "assets/CG6uKW2T.js",
+    "url": "assets/CJWvpnsb.css",
     "revision": null
   }, {
-    "url": "assets/CJWvpnsb.css",
+    "url": "assets/COL6FuaS.js",
     "revision": null
   }, {
     "url": "assets/cover-mh0L3JCC.jpg",
     "revision": null
   }, {
+    "url": "assets/D_N_0Y_n.js",
+    "revision": null
+  }, {
     "url": "assets/D2B4WApD.css",
-    "revision": null
-  }, {
-    "url": "assets/D4AfOCEQ.js",
-    "revision": null
-  }, {
-    "url": "assets/DDIsul0q.js",
     "revision": null
   }, {
     "url": "assets/Dmlq1FOa.css",
@@ -126,10 +126,13 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/DQP6gcI8.css",
     "revision": null
   }, {
-    "url": "assets/DuZU8riv.js",
+    "url": "assets/DYsTnSyo.js",
     "revision": null
   }, {
-    "url": "assets/DYsTnSyo.js",
+    "url": "assets/gJdlGX7-.js",
+    "revision": null
+  }, {
+    "url": "assets/l3_GAQh-.js",
     "revision": null
   }, {
     "url": "assets/taichi-Cpe_iz6n.png",
@@ -139,9 +142,6 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "assets/zjxGnTij.css",
-    "revision": null
-  }, {
-    "url": "assets/Zp_JjF59.js",
     "revision": null
   }, {
     "url": "icons/apple-touch-icon-180x180.png",
@@ -172,19 +172,19 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": "cdd2778e636008c04170c1a7d59d2ac4"
   }, {
     "url": "about.html",
-    "revision": "801c8cb0ec55a3c1f745aad587b07a04"
+    "revision": "9bb4efd5bcf1d1ca6a9c98a6c05c9cde"
   }, {
     "url": "answer.html",
-    "revision": "d331dc5c5fc5176631e1b241063f544a"
+    "revision": "ef2606e4610de6994237208cb3e78b7c"
   }, {
     "url": "bagua.html",
-    "revision": "168ea644040906d15d1572099da1a337"
+    "revision": "fd4bb094c77ac30536351c1434d0bbb5"
   }, {
     "url": "bazi.html",
-    "revision": "23cb08a993de81a0c71b175f729a9d82"
+    "revision": "44140499eff1ef43442db52817777c39"
   }, {
     "url": "index.html",
-    "revision": "51e42edd8bec9d78b8e12efd2204bea2"
+    "revision": "5f3a87fb13cf470dcb9281d6522478c2"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
