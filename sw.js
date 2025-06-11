@@ -81,19 +81,16 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/_QInWcyM.css",
+    "url": "assets/app-CRbySh0J.js",
     "revision": null
   }, {
-    "url": "assets/AE9Vxyay.js",
+    "url": "assets/aR13CH5N.js",
     "revision": null
   }, {
-    "url": "assets/app-RUpFjM26.js",
+    "url": "assets/BA7rjPiq.css",
     "revision": null
   }, {
-    "url": "assets/B34IgpM9.js",
-    "revision": null
-  }, {
-    "url": "assets/B7dd76Fa.css",
+    "url": "assets/BaOSN7Gl.js",
     "revision": null
   }, {
     "url": "assets/C6Dx7pxG.css",
@@ -102,16 +99,25 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/C8ukEo7o.js",
     "revision": null
   }, {
+    "url": "assets/CG6uKW2T.js",
+    "revision": null
+  }, {
     "url": "assets/CJWvpnsb.css",
     "revision": null
   }, {
     "url": "assets/cover-mh0L3JCC.jpg",
     "revision": null
   }, {
-    "url": "assets/DjZoq_67.js",
+    "url": "assets/D2B4WApD.css",
     "revision": null
   }, {
-    "url": "assets/Dnw0ydyG.js",
+    "url": "assets/D4AfOCEQ.js",
+    "revision": null
+  }, {
+    "url": "assets/DDIsul0q.js",
+    "revision": null
+  }, {
+    "url": "assets/Dmlq1FOa.css",
     "revision": null
   }, {
     "url": "assets/donate-iTAF6ci1.jpg",
@@ -120,13 +126,22 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/DQP6gcI8.css",
     "revision": null
   }, {
-    "url": "assets/eWdiaxzD.js",
+    "url": "assets/DuZU8riv.js",
+    "revision": null
+  }, {
+    "url": "assets/DYsTnSyo.js",
     "revision": null
   }, {
     "url": "assets/taichi-Cpe_iz6n.png",
     "revision": null
   }, {
     "url": "assets/wx-BEFoXXau.jpg",
+    "revision": null
+  }, {
+    "url": "assets/zjxGnTij.css",
+    "revision": null
+  }, {
+    "url": "assets/Zp_JjF59.js",
     "revision": null
   }, {
     "url": "icons/apple-touch-icon-180x180.png",
@@ -157,16 +172,19 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": "cdd2778e636008c04170c1a7d59d2ac4"
   }, {
     "url": "about.html",
-    "revision": "ce12c7798ec0a803663ae69d90b0e699"
+    "revision": "801c8cb0ec55a3c1f745aad587b07a04"
   }, {
     "url": "answer.html",
-    "revision": "2b4fc64ee63d2553ce6db84c6774d967"
+    "revision": "d331dc5c5fc5176631e1b241063f544a"
+  }, {
+    "url": "bagua.html",
+    "revision": "168ea644040906d15d1572099da1a337"
   }, {
     "url": "bazi.html",
-    "revision": "4c8e1d181749d9cb5eb73aba36363954"
+    "revision": "23cb08a993de81a0c71b175f729a9d82"
   }, {
     "url": "index.html",
-    "revision": "6dc29e39cd6047d9890a9b6e2713ecc7"
+    "revision": "51e42edd8bec9d78b8e12efd2204bea2"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
