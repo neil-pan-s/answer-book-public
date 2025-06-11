@@ -81,19 +81,16 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/app-TovxH3ne.js",
+    "url": "assets/app-uqAWcbcC.js",
     "revision": null
   }, {
     "url": "assets/BA7rjPiq.css",
     "revision": null
   }, {
-    "url": "assets/Bjxop39h.js",
+    "url": "assets/BbHKQuf0.js",
     "revision": null
   }, {
-    "url": "assets/C-CS-Cak.js",
-    "revision": null
-  }, {
-    "url": "assets/C21bM6-I.js",
+    "url": "assets/BbiKLU1q.css",
     "revision": null
   }, {
     "url": "assets/C6Dx7pxG.css",
@@ -105,16 +102,25 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/CJWvpnsb.css",
     "revision": null
   }, {
-    "url": "assets/COL6FuaS.js",
-    "revision": null
-  }, {
     "url": "assets/cover-mh0L3JCC.jpg",
     "revision": null
   }, {
-    "url": "assets/D_N_0Y_n.js",
+    "url": "assets/Cty5dRBU.js",
+    "revision": null
+  }, {
+    "url": "assets/D1DKxMTb.js",
     "revision": null
   }, {
     "url": "assets/D2B4WApD.css",
+    "revision": null
+  }, {
+    "url": "assets/DcX8xsGR.js",
+    "revision": null
+  }, {
+    "url": "assets/DFAWu8Jk.js",
+    "revision": null
+  }, {
+    "url": "assets/Dl-lZW0u.js",
     "revision": null
   }, {
     "url": "assets/Dmlq1FOa.css",
@@ -126,22 +132,16 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/DQP6gcI8.css",
     "revision": null
   }, {
+    "url": "assets/DxbnwxzV.js",
+    "revision": null
+  }, {
     "url": "assets/DYsTnSyo.js",
-    "revision": null
-  }, {
-    "url": "assets/gJdlGX7-.js",
-    "revision": null
-  }, {
-    "url": "assets/l3_GAQh-.js",
     "revision": null
   }, {
     "url": "assets/taichi-Cpe_iz6n.png",
     "revision": null
   }, {
     "url": "assets/wx-BEFoXXau.jpg",
-    "revision": null
-  }, {
-    "url": "assets/zjxGnTij.css",
     "revision": null
   }, {
     "url": "icons/apple-touch-icon-180x180.png",
@@ -172,19 +172,19 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": "cdd2778e636008c04170c1a7d59d2ac4"
   }, {
     "url": "about.html",
-    "revision": "9bb4efd5bcf1d1ca6a9c98a6c05c9cde"
+    "revision": "3128c087365888e4e934b03c518ceada"
   }, {
     "url": "answer.html",
-    "revision": "ef2606e4610de6994237208cb3e78b7c"
+    "revision": "da1768a7f0901a6ab9bc71a3d7d53f8a"
   }, {
     "url": "bagua.html",
-    "revision": "fd4bb094c77ac30536351c1434d0bbb5"
+    "revision": "7a4d355e2f2ffcb12e977521994491c6"
   }, {
     "url": "bazi.html",
-    "revision": "44140499eff1ef43442db52817777c39"
+    "revision": "5effa2ccc4e81cd03191739924fbd9c6"
   }, {
     "url": "index.html",
-    "revision": "5f3a87fb13cf470dcb9281d6522478c2"
+    "revision": "08556eec639c5d3246eeff4a82260886"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
