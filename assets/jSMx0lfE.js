@@ -1,1 +1,0 @@
-import{aj as o,o as t,h as s,F as n}from"./app-BP1lBIsG.js";const a={},r={class:"about"};function c(l,e){return t(),s("div",r,e[0]||(e[0]=[n("h1",null,null,-1)]))}const u=o(a,[["render",c]]);export{u as default};

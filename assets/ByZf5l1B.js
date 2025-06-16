@@ -1,0 +1,1 @@
+import{ac as o,o as t,h as s,F as n}from"./app-Ck46hfiM.js";const a={},c={class:"about"};function r(l,e){return t(),s("div",c,e[0]||(e[0]=[n("h1",null,null,-1)]))}const u=o(a,[["render",r]]);export{u as default};
